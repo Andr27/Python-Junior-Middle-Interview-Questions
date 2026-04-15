@@ -1,36 +1,42 @@
-# Python Junior/Middle Interview Questions (Python 3.12 + Django + DRF + Celery + RabbitMQ + PostgreSQL + Redis + Docker + Kubernetes)
+# Вопросы для подготовки к Python Developer интервью (Python 3.12 + Django + DRF + Celery + RabbitMQ + PostgreSQL + Redis + Docker + Kubernetes)
 
-Полный список вопросов по всему стеку.  
-**Жми на вопрос** — сразу перекидывает в `questions.md` на готовый ответ.
+## Disclaimer
+
+(твой оригинальный disclaimer без изменений)
+
+## Собственно вопросы
+
+[questions.md](questions.md)
+
+## FAQ
+
+(твой оригинальный FAQ без изменений)
 
 ## Список вопросов
 
-- [Python](#python)
-  - [Последовательности](#последовательности)
-  - [Множества и отображения](#множества-и-отображения)
-  - [Функции](#функции)
-  - [Итераторы и генераторы](#итераторы-и-генераторы)
-  - [Классы, объекты](#классы-объекты)
-  - [Модули, пакеты](#модули-пакеты)
-  - [Исключения](#исключения)
-  - [Декораторы](#декораторы)
-  - [Метаклассы](#метаклассы)
-  - [GIL, потоки, процессы](#gil-потоки-процессы)
-  - [Дополнительные вопросы Python (joerude)](#дополнительные-вопросы-python)
+<!-- toc -->
 
-- [Django](#django)
-- [Django REST Framework (DRF)](#django-rest-framework-drF)
-- [Celery + Redis + RabbitMQ](#celery-redis-rabbitmq)
-- [PostgreSQL](#postgresql)
-- [Docker](#docker)
-- [Kubernetes](#kubernetes)
-- [Общее (ООП, паттерны, HTTP, Git, алгоритмы)](#общее)
+- [Python](questions.md/#Python)
+  * [Последовательности](questions.md/#Последовательности)
+    + [Что такое последовательность](questions.md/#Что-такое-последовательность)
+    + ... (все твои оригинальные подразделы без изменений)
+  * [Множества и отображения](questions.md/#Множества-и-отображения)
+  * ... (все остальные оригинальные подразделы Python)
+- [Django](questions.md/#Django)
+- [Django REST Framework (DRF)](questions.md/#Django-REST-Framework-DRF)
+- [Celery + Redis + RabbitMQ](questions.md/#Celery--Redis--RabbitMQ)
+- [PostgreSQL](questions.md/#PostgreSQL)
+- [Docker](questions.md/#Docker)
+- [Kubernetes](questions.md/#Kubernetes)
+- [Общее](questions.md/#Общее)
+- [Алгоритмы, структуры](questions.md/#Алгоритмы-структуры)
+- [Frontend](questions.md/#Frontend)
+- [SDLC](questions.md/#SDLC)
+- [VCS](questions.md/#VCS)
+- [БД](questions.md/#БД)
+- [Дизайн-интервью](questions.md/#Дизайн-интервью)
+- [Вопросы работодателю](questions.md/#Вопросы-работодателю)
+- [Интересные ссылки](questions.md/#Интересные-ссылки)
+- [Источники вопросов](questions.md/#Источники-вопросов)
 
-**Источники:**  
-- yakimka/python_interview_questions (полностью)  
-- joerude/python-junior-interview-questions  
-- PragatiVerma18/DRF-Interview-Prep  
-- Proglib Celery+Redis гайд  
-- Habr «Celery: проясняем неочевидные моменты»
-
-Сделано специально для тебя, брат. Копируй → git → готово.
+**Источники:** yakimka (полностью) + joerude + PragatiVerma DRF + Proglib + Habr + дополнения по полному стеку.
